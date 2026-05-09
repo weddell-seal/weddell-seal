@@ -1,6 +1,5 @@
 ## About Me
-  <br />
-   
+  <br />   
 I am a newbie coder. My academic and professional focuses lie in IR and history, but I also take great interest in computer science and digital humanities.
   <br />
    

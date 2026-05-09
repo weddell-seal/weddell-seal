@@ -1,9 +1,12 @@
 ## About Me
   <br />
+   
 I am a newbie coder. My academic and professional focuses lie in IR and history, but I also take great interest in computer science and digital humanities.
   <br />
+   
 I aim to become at least relatively well-versed in basic coding principles and languages, a goal that I have set with an indeterminate deadline (much of my current obligations occlude my ability to devote time to this, but I will try my best regardless).
   <br />
+   
 Currently, my only real or fruitful coding projects have been in the realm of web design. I hope to branch out towards website creation and making small generic tools/projects as a start.
 
 <!--
